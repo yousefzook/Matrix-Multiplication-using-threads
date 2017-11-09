@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1508457388 source:/media/yousef/01D3143E7D223CC0/Engieneering/C/Matrix-Multiplication-Using-Threads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<pthread.h>
+	<sys/time.h>
+
