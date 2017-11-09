@@ -6,7 +6,7 @@ First to compile the code you should type:
 > make
 
 Then you will be able to run the code by typing:
-> /matMulp
+> ./matMulp
 
 Take care, you must put  files contating the  matrices in the project file, the first called "_a.txt_" and the second called "_b.txt_".
 OR you can call them another with names as shown in the sample run here:
